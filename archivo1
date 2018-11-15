@@ -4,3 +4,6 @@ Ya tenemos 2 nuevas ramas. Ahora vamos a probar unir la rama 2 a esta rama princ
 
 añadiendo algo de contenido a este archivo...Luego lo vincularemos a un issue
 
+En esta nueva modificación, cerraremos el Issue iniciado e en la linea 5.
+para esto usaremos la palabra "fixes" 
+
